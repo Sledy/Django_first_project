@@ -1,6 +1,6 @@
 # First Django project
 
-This repostiory stores my first django project
+This repostiory stores my first django project based on the sentdex yt channel
 
 ## Getting started
 
